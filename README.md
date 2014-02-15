@@ -1,3 +1,5 @@
+![Saucy Preview](http://d13yacurqjgara.cloudfront.net/users/42880/screenshots/1424231/saucy-the-dragon-wink.gif "Also on Dribbble!")
+
 Saucy the Dragon
 =====
 
@@ -8,6 +10,9 @@ Demo built with Snap.svg 0.1.0. I know the version 0.2.0 is out but I didn't yet
 **Demo at: [creativespooks.com/saucy](http://creativespooks.com/saucy)**
 
 ---
+
+Dribbble Shot: [dribbble.com/shots/1424231](http://dribbble.com/shots/1424231)
+
 
 ## Description
 
