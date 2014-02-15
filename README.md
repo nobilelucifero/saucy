@@ -22,6 +22,7 @@ Saucy the Dragon is a very experimental demo made possible with Snap.svg and som
 * On Firefox renders slowy. I don't know what the problem is actually. Well... I probably know. These things need a lot of optimization. Also, I believe Snap.svg is still quite young for this.
 * On Mobile/Tablet works generally just fine. I didn't try Firefox OS or Window Mobile, but if you can, that would be super awesome!
 * Sometimes the animation stops (100% sure if you change tab). I presume it's because of Tab's handling by the Browser or simply Snap.svg doesn't "revive" the loop. Maybe it's my fault.
+* Minor cache problems.
 
 ## Closing
 
