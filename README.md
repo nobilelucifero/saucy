@@ -18,12 +18,12 @@ Dribbble Shot: [dribbble.com/shots/1424231](http://dribbble.com/shots/1424231)
 
 ####Go fly Saucy, go fly! Enjoy your freedom and live happily!
 
-Saucy the Dragon is a very experimental demo made possible with Snap.svg and some other Javascript lines. Feel free to dig in the code following the link below. Share if you like it!
+Saucy the Dragon is a very experimental demo made possible with Snap.svg and some other Javascript lines of code. Feel free to dig in the code following the link below. Share if you like it!
 
 > Saucy please, just don't go chasing barbeques!
 
 ## Known issues
-* IE10 makes a super funny "bouncy" effect. It's very cute but now something I want at all.
+* IE10 makes a super funny "bouncy" effect. It's very cute but not something I want at all.
 * irefox seems to render slowy the demo. I don't know what's the problem about actually. Well... I probably know. These things need a lot of optimization. Also, I believe Snap.svg is still quite young for this.
 * On Mobile/Tablet works generally just fine. I didn't try Firefox OS or Window Mobile, but if you people can, that would be super awesome!
 * Sometimes the animation stops (100% sure if you change tab). I presume it's because of Tab's handling by the Browser or simply Snap.svg doesn't "resurrect" the loop. Or, more probably, it's my fault.
