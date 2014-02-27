@@ -31,4 +31,4 @@ Saucy the Dragon is a very experimental demo made possible with Snap.svg and som
 
 ## Closing
 
-My Javacript code it's pretty raw. But if you have suggestions or advices, or if I wrote a weapon of mass destruction, just tell me!
+My Javacript code it's pretty raw. But if you have suggestions or advices, or if I made/wrote a weapon of mass destruction by mistake, just tell me!
